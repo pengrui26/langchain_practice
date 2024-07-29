@@ -24,3 +24,5 @@ yarn-error.log*
 
 # Ignore environment file in server directory
 server/.env
+server/node_modules
+server/uploads
